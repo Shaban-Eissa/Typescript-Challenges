@@ -33,7 +33,7 @@ The challenges are grouped into several categories:
 
 ## 🤝 Contributing
 
-We welcome contributions! If you have an idea for a new challenge or have found a bug, please open an issue or submit a pull request. When contributing:
+We welcome contributions! If you have an idea for a new challenge or have found a bug, please open an issue or submit a pull request.
 
 ## 🌟 Acknowledgments
 
