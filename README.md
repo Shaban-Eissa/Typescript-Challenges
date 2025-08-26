@@ -1,5 +1,3 @@
-# TypeScript Type Challenges
-
 ![TypeScript Type Challenges](https://github.com/type-challenges/type-challenges/raw/main/screenshots/logo.svg)
 
 Welcome to the **TypeScript Type Challenges** repository! 🚀
